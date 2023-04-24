@@ -3,13 +3,13 @@
 ![](https://komarev.com/ghpvc/?username=nielsenlu2&label=Profile+Views)
 
 <div>
-  <img align="center" width=55% src="https://github-readme-stats.vercel.app/api?username=nielsenlu2&include_all_commits=true&show_icons=true&hide=issues&count_private=true&theme=onedark" />
-  <img align="center" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielsenlu2&layout=compact&langs_count=6&theme=onedark" />
+  <img align="center" width=55% src="https://github-readme-stats.vercel.app/api?username=nielsenlu2&include_all_commits=true&show_icons=true&hide=issues&count_private=true&theme=onedark&margin-w=15&margin-h=15" />
+  <img align="center" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielsenlu2&layout=compact&langs_count=6&theme=onedark&margin-w=15&margin-h=15" />
 </div>
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy/"><img src="https://github-profile-trophy.vercel.app/?username=nielsenlu2&theme=onedark3&margin-w=15&margin-h=15" alt="nielsenlu2" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy/"><img src="https://github-profile-trophy.vercel.app/?username=nielsenlu2&theme=onedark&margin-w=15&margin-h=15" alt="nielsenlu2" /></a> </p>
 
 <hr>
 
