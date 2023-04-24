@@ -9,7 +9,7 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy/"><img src="https://github-profile-trophy.vercel.app/?username=nielsenlu2&theme=onedark" alt="nielsenlu2" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy/"><img src="https://github-profile-trophy.vercel.app/?username=nielsenlu2&theme=onedark3&margin-w=15&margin-h=15" alt="nielsenlu2" /></a> </p>
 
 <hr>
 
