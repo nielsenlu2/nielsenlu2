@@ -36,6 +36,6 @@
 
 <h3 align="left">Recent Projects / Repositories</h3>
 
-[![32-bit SoC](https://github-readme-stats.vercel.app/api/pin/?username=nielsenlu2&repo=SEMAG&show_owner=false&theme=onedark)](https://github.com/nielsenlu2/SEMAG)
+[![32-bit SoC](https://github-readme-stats.vercel.app/api/pin/?username=nielsenlu2&repo=SEMAG&show_owner=false&theme=onedark)](https://github.com/darthluke04/SEMAG)
 
 [![32-bit SoC](https://github-readme-stats.vercel.app/api/pin/?username=nielsenlu2&repo=Portfolio&show_owner=false&theme=onedark)](https://github.com/nielsenlu2/Portfolio)
